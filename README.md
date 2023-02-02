@@ -1,7 +1,8 @@
 ### Olá! Me chamo Erick Torres, Sou desenvolvedor de Jogos Unity / Unreal 
 
 - 🔭 Trabalho atualmente com Unity C#
-- 🌱 Estudando Unreal 5 C++
+- 🌱 Estudando Mirror Networking + Steamworks
+- 🕹️ Estudando Unreal 5 C++
 - 😄 Ele/Dele
 
 <div style="display: inline_block" >
