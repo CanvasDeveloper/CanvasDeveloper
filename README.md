@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho atualmente com Unity C#
 - 🌱 Estando Unreal 5 c++
-- 📫 Contato:  linktr.ee/ericktorres
 - 😄 Ele/Dele
 
 <div>
