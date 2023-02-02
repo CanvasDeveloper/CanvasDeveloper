@@ -30,7 +30,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/erick-torres-669439198/">
+  <a href="https://canvasdev.itch.io/">
     <img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
   </a>
   
