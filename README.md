@@ -2,6 +2,7 @@
 
 - 🔭 Trabalho atualmente com Unity C#
 - 🌱 Estudando Mirror Networking + Steamworks
+- 🌱 Estudando Netcode for GameObjects
 - 🕹️ Estudando Unreal 5 C++
 - 😄 Ele/Dele
 
@@ -10,7 +11,7 @@
   <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png" alt="https://www.flaticon.com/free-icons/unity" title="unity icons"/>
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img height="40" width="40" src="https://img.icons8.com/nolan/256/unreal-engine.png"/>
-</div><br>
+</div>
 
 <div>
   <a href="">
@@ -18,8 +19,6 @@
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanvasDeveloper&layout=default&count_private=true&show_icons=true&theme=algolia"/>
   </a>
 </div>
-
-##
 
 <div>
    <a href="https://linktr.ee/ericktorres">
