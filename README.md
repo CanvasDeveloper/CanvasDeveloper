@@ -1,10 +1,12 @@
-### Olá! Me chamo Erick Torres, Sou desenvolvedor de Jogos Unity / Unreal 
+### Hi, my name is Erick Torres, I'm a Unity / Unreal Games developer. 
 
-- 🔭 Trabalho atualmente com Unity C#
-- 🌱 Estudando Mirror Networking + Steamworks
-- 🌱 Estudando Netcode for GameObjects
-- 🕹️ Estudando Unreal 5 C++
-- 😄 Ele/Dele
+- 🔭 I'm currently working with Unity C#
+- 🌱 ~~Studying Mirror Networking + Steamworks~~
+- 🌱 ~~Studying Netcode for GameObjects~~
+- 🌱 Unity DOTS
+- 🌱 Unity UIToolkit
+- 🌱 Unity IA Tools
+- 😄 Him/Her
 
 <div style="display: inline_block" >
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
