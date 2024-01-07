@@ -1,4 +1,4 @@
-### Hi, my name is Erick Torres, I'm a Unity / Unreal Games developer. 
+### Hi, my name is Erick Torres, I'm a Unity Game developer. 
 
 - 🔭 I'm currently working with Unity C#
 - 🌱 ~~Studying Mirror Networking + Steamworks~~
