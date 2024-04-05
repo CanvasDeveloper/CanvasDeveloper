@@ -1,5 +1,6 @@
 ### Hello, I'm Erick Torres! ###
-- 😄 Him/Her
+- 🔭 I'm currently working with Unity C#
+- 🌱 Unreal Editor For Fortnite + Verse
 
 <div style="display: inline_block" >
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
