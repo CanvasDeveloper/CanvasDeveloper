@@ -1,15 +1,4 @@
 ### Hello, I'm Erick Torres! ###
-
-- 🔭 I'm currently working with Unity C#
-- 🌱 ~~Studying Mirror Networking + Steamworks~~
-- 🌱 ~~Studying Netcode for GameObjects~~
-- 🌱 Unity DOTS
-- 🌱 ~~Unity UIToolkit~~
-- 🌱 Unity IA Tools
-- 🌱 Unity Shaders
-
-- 🌱 Unreal Editor For Fortnite + Verse
-
 - 😄 Him/Her
 
 <div style="display: inline_block" >
