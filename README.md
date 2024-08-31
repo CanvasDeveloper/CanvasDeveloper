@@ -7,7 +7,7 @@
   <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png" alt="https://www.flaticon.com/free-icons/unity" title="unity icons"/>
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img height="40" width="40" src="https://img.icons8.com/nolan/256/unreal-engine.png"/>
-  <img height="40" width="40" src=https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Verse_Programming_Language_Logo.jpeg/320px-Verse_Programming_Language_Logo.jpeg/>
+  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Verse_Programming_Language_Logo.jpeg/320px-Verse_Programming_Language_Logo.jpeg"/>
 </div><br>
 
 <div>
