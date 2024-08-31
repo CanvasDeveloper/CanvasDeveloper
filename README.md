@@ -7,6 +7,7 @@
   <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png" alt="https://www.flaticon.com/free-icons/unity" title="unity icons"/>
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img height="40" width="40" src="https://img.icons8.com/nolan/256/unreal-engine.png"/>
+  <img height="40" width="40" src=https://d1iv7db44yhgxn.cloudfront.net/documentation/images/92c2bfaf-ddf8-43ec-8b1b-9c0625f660ec/green-verse.png/>
 </div><br>
 
 <div>
@@ -33,12 +34,6 @@
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CanvasDeveloper/CanvasDeveloper/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CanvasDeveloper/CanvasDeveloper/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CanvasDeveloper/CanvasDeveloper/output/github-contribution-grid-snake.svg">
-</picture>
 <br><br>
 
 <br><br>
